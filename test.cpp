@@ -9,7 +9,7 @@
 // using namespace std;
 // int main() {
 //     int age = 18;
-//     char grade = 'A'
+//     char grade = 'A';
 //     float PI = 3.14;
 //     bool b = true;
 //     double price = 100.99;
